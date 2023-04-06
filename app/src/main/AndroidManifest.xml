@@ -12,7 +12,13 @@
         android:theme="@style/Theme.AndroidMaster"
         tools:targetApi="31">
         <activity
-            android:name=".exercises.EjercicioFrameLayout"
+            android:name=".exercises.ExerciseLinearLayout2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".exercises.ExerciseLinearLayoutActivity"
+            android:exported="true" />
+        <activity
+            android:name=".exercises.ExerciseFrameLayoutActivity"
             android:exported="true" />
         <activity
             android:name=".firstapp.FirstAppActivity"
