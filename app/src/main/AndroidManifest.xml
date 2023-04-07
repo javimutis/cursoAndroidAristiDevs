@@ -12,6 +12,15 @@
         android:theme="@style/Theme.AndroidMaster"
         tools:targetApi="31">
         <activity
+            android:name=".exercises.ExerciseConstraintChainsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".exercises.ExerciseConstraintTexButtonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".exercises.ExerciseConstraintGuidelineActivity"
+            android:exported="true" />
+        <activity
             android:name=".exercises.ExerciseLinearLayout2Activity"
             android:exported="true" />
         <activity
