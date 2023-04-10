@@ -21,7 +21,7 @@ o uno abajo del otro en vertical, usando orientation-->
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".firstapp.FirstAppActivity">
+    tools:context=".exercises.FirstAppLinearLayoutActivity">
 
   <TextView
       android:layout_width="wrap_content"
